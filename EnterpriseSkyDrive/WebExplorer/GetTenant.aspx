@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GetTenant.aspx.cs" Inherits="EnterpriseSkyDrive.WebExplorer.GetTenant" %>

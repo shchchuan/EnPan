@@ -1,0 +1,55 @@
+﻿.zxjayDialog_border
+{
+	border: solid 1px #69c;
+	font-size: 12px;
+	float: left;
+	width: 100%;
+	clear: both;
+}
+.zxjayDialog_titleBar
+{
+	-moz-user-select: none;
+	height: 26px;
+	background: url(title_bg.gif) repeat-x;
+	cursor: move;
+}
+.zxjayDialog_ico
+{
+	margin: 5px;
+	float: left;
+}
+.zxjayDialog_titleText
+{
+	padding-top: 7px;
+	float: left;
+}
+.zxjayDialog_titleCloseButton
+{
+	margin-top: 9px;
+	margin-right: 8px;
+	float: right;
+	cursor: pointer;
+}
+.zxjayDialog_content
+{
+	background-color: White;
+	padding: 20px 10px 20px 10px;
+	text-align: center;
+}
+.zxjayDialog_buttonPanel
+{
+	height: 46px;
+	background: url(btnpanel_bg.gif) repeat-x;
+	width: 100%;
+	text-align: center;
+}
+.zxjayDialog_commandButton
+{
+	border: none;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 69px;
+	height: 24px;
+	background: url(btn_bg.gif) no-repeat;
+}

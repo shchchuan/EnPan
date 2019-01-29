@@ -1,0 +1,6 @@
+D:\WinSafe\EnterpriseSkyDrive\EnterpriseSkyDrive.Common\bin\Debug\EnterpriseSkyDrive.Common.dll
+D:\WinSafe\EnterpriseSkyDrive\EnterpriseSkyDrive.Common\bin\Debug\EnterpriseSkyDrive.Common.pdb
+D:\WinSafe\EnterpriseSkyDrive\EnterpriseSkyDrive.Common\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WinSafe\EnterpriseSkyDrive\EnterpriseSkyDrive.Common\obj\Debug\EnterpriseSkyDrive.Common.csprojResolveAssemblyReference.cache
+D:\WinSafe\EnterpriseSkyDrive\EnterpriseSkyDrive.Common\obj\Debug\EnterpriseSkyDrive.Common.dll
+D:\WinSafe\EnterpriseSkyDrive\EnterpriseSkyDrive.Common\obj\Debug\EnterpriseSkyDrive.Common.pdb
